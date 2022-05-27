@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - player
+  - enemy
+  - enviornment
+  - SpawnModule
+  - GameManager
+  - UI
+  - HealthBarText
+  - SpawnPoint
+  - Zombie
+  - HealthBar
+  - ArmorBar
+  - Ammo
+  - Endurance
+  - RenderDistanceSlider
+  - RenderDistanceInputField
+  - Tank
+  - TankBar
+  - DryBar
+  - WaterBomb
+  - Ground
+  - PalmTree
+  - Tree
+  - SonnenSchirm
+  - ZombieCharacter
+  - WaterBombCharacter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Wall
+  - Roof
+  - Unwalkable
+  - Weapons
+  - Zombie
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
